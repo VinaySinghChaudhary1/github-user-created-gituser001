@@ -74,3 +74,19 @@ This repository is distributed under the MIT License. See the `LICENSE` file.
 ## Round 2 update (2025-10-17)
 
 See the site: https://VinaySinghChaudhary1.github.io/github-user-created-gituser001/
+
+
+## 🌀 Round 1 (2025-10-17)
+
+**Brief:** Publish a Bootstrap page with form id="github-user-${seed}" that accepts a GitHub username, optionally uses ?token=, and displays the account creation date in YYYY-MM-DD UTC inside #github-created-at.
+
+**Checks:**
+- document.querySelector('#github-user-${seed}').tagName === 'FORM'
+- document.querySelector('#github-created-at').textContent.includes('20')
+- !!document.querySelector('script').textContent.includes('https://api.github.com/users/')
+
+**Status:** ✅ Completed
+
+**Pages URL:** [https://VinaySinghChaudhary1.github.io/github-user-created-gituser001/](https://VinaySinghChaudhary1.github.io/github-user-created-gituser001/)
+
+---
