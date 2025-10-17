@@ -69,3 +69,8 @@ This repository is distributed under the MIT License. See the `LICENSE` file.
 **Pages URL:** https://vinaysinghchaudhary1.github.io/github-user-created-gituser001/
 
 ---
+
+
+## Round 2 update (2025-10-17)
+
+See the site: https://VinaySinghChaudhary1.github.io/github-user-created-gituser001/
